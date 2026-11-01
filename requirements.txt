@@ -1,0 +1,7 @@
+einops==0.8.2
+numpy==2.4.2
+pytorch_lightning==2.3.3
+scikit-learn==1.8.0
+scipy==1.17.0
+torchmetrics==1.4.0.post0
+ninja
